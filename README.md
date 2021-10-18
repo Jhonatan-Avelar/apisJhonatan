@@ -7,7 +7,7 @@ Ferramentas utilizadas:
 
 
 Funcionamento:
-1 - Utilize algum software para iniciar um servidor local (laragon, wampserver ou semelhante);
+1 - Utilize algum software para iniciar um banco de dados local (laragon, wampserver ou semelhante);
 
 2 - Utilize o arquivo Dump20211018.sql para importar a extrutura do banco e os dados utilizados;
 
