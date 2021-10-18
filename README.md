@@ -1,9 +1,9 @@
 Ferramentas utilizadas:
 
-Laragon
-MySQL - MySQL Workbench
-Insomnia
-Visual Studio 2019
+-Laragon
+-MySQL - MySQL Workbench
+-Insomnia
+-ASP.NET Core (Visual Studio Community 2019)
 
 
 Funcionamento:
